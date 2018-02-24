@@ -1,0 +1,83 @@
+[
+   {
+   	"question": "How Much do you earn",
+   	"answer" : [
+
+        {"id" : 0, "text" : "$1000" },
+        {"id" : 1, "text" : "$2000" },
+        {"id" : 2, "text" : "$3000" },
+        {"id" : 3, "text" : "$4000" }
+
+   	],
+   	"correct" :  1 
+   },
+
+    {
+   	"question": "How old are you",
+   	"answer" : [
+
+        {"id" : 0, "text" : "20" },
+        {"id" : 1, "text" : "30" },
+        {"id" : 2, "text" : "40" },
+        {"id" : 3, "text" : "50" }
+
+   	],
+   	"correct" :  2
+   },
+    {
+   	"question": "what is your complextion",
+   	"answer" : [
+
+        {"id" : 0, "text" : "fair" },
+        {"id" : 1, "text" : "dark" },
+        {"id" : 2, "text" : "white" },
+        {"id" : 3, "text" : "albino" }
+
+   	],
+   	"correct"  :  3,
+   	"feedback" :  "We dey like fair Girls"
+   },
+
+       {
+   	"question": "where do u work",
+   	"answer" : [
+
+        {"id" : 0, "text" : "shell" },
+        {"id" : 1, "text" : "chevron" },
+        {"id" : 2, "text" : "mobil" },
+        {"id" : 3, "text" : "total" }
+
+   	],
+   	"correct" :  3
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
